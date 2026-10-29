@@ -92,7 +92,7 @@ Run these tests in Kali:
 - VirtualBox provides safe virtualization.  
 - NAT Network enables attacker-target communication.  
 - Static IPs and snapshots make labs stable and repeatable.  
-- Documentation is as important as the setup itself.  
+- Documentation is as important as the setup itself. 
 
 
 Would you like me to build that roadmap for you?
