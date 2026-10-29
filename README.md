@@ -1,9 +1,5 @@
 # networkwalksB084E-week-01-Cyber-security-lab-set-up
 CYBER SECURITY LAB SET UP
-Alright Muhammad, let’s walk through this step by step like a cyber student setting up their first **penetration testing lab** with **VirtualBox** and **Kali Linux**. I’ll explain not just *how* to do it, but *why* each step matters for cybersecurity practice.  
-
----
-
 ## 🖥️ 1. Prepare the Host System  
 - **Host OS**: Windows 10 (your base system).  
 - **RAM**: At least 8 GB (so you can allocate ~2 GB to Kali and still keep your host responsive).  
@@ -92,16 +88,11 @@ Run these tests in Kali:
 - Never connect vulnerable VMs to real networks.  
 - Keep your lab isolated to avoid accidental attacks outside your environment.  
 
----
-
 ## 💡 Key Takeaways  
 - VirtualBox provides safe virtualization.  
 - NAT Network enables attacker-target communication.  
 - Static IPs and snapshots make labs stable and repeatable.  
 - Documentation is as important as the setup itself.  
 
----
-
-Muhammad, this explanation gives you the **big picture and the technical steps**. If you want, I can also draft a **Week-by-Week lab progression plan** (Week 1: Setup Kali, Week 2: Add Target VM, Week 3: Exploitation Practice, Week 4: Defense & Hardening). That way, your portfolio looks like a structured cybersecurity course.  
 
 Would you like me to build that roadmap for you?
